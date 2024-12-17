@@ -4,3 +4,7 @@ packages:
     data-effects-core/
     data-effects-th/
 
+source-repository-package
+    type: git
+    location: https://github.com/cmcmA20/compdata.git
+    tag: 9dd090c897772a7f04dd6bb407e55b69659b7be3
